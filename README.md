@@ -1,8 +1,6 @@
 # CoreOne
 
-<div align="center">
- <img src="https://imgur.com/a/v22JFRd"></img>
-</div>
+![Alt text](path/to/your/image.png)
 
 ## Features:
 
