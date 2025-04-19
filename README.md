@@ -1,6 +1,6 @@
 # CoreOne
 
-<img src="https://github.com/astros3x/Astri/assets/87500882/d3495feb-6b61-4515-81d5-89d999cb7e35"></img>
+<img src="https://github.com/NoobieCoderLmao/coreone-multitool/blob/main/coreone.PNG"></img>
 
 ## Features:
 
