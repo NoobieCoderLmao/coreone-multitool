@@ -12,4 +12,4 @@
 6. Webhook Hijacker - Makes it where you can talk through the webhook, or spam through it.
 7. Roblox ID Information - Tells you a Roblox User's information through their ID.
 
-# This is it's first version to expect it to be kind of bad, join the discord server if you want to rate it.
+# This is it's first version, expect it to be kind of bad. Join the discord server if you want to rate it.
